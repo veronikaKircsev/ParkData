@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+.env/
+.venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# IDEs
+.idea/
+
+# Python packages (site-packages shouldn't be in repo)
+**/site-packages/
+
+# Logs, caches
+*.log
+*.sqlite3
+.cache/
+
+
+*.csv
